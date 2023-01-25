@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TomCat-Demo/TomCat-Demo.iml" filepath="$PROJECT_DIR$/TomCat-Demo/TomCat-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ajax-demo/ajax-demo.iml" filepath="$PROJECT_DIR$/ajax-demo/ajax-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brand-demo/ajax-demo (1).iml" filepath="$PROJECT_DIR$/brand-demo/ajax-demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/brand-case/brand-case.iml" filepath="$PROJECT_DIR$/brand-case/brand-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-demo/maven-demo.iml" filepath="$PROJECT_DIR$/maven-demo/maven-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-maven/maven_dao/maven_dao.iml" filepath="$PROJECT_DIR$/spring-maven/maven_dao/maven_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-maven/maven_parent/maven_parent.iml" filepath="$PROJECT_DIR$/spring-maven/maven_parent/maven_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-maven/maven_pojo/maven_pojo.iml" filepath="$PROJECT_DIR$/spring-maven/maven_pojo/maven_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-start/spring-start.iml" filepath="$PROJECT_DIR$/spring-start/spring-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot-mybatisPlus/springBoot-mybatisPlus.iml" filepath="$PROJECT_DIR$/springBoot-mybatisPlus/springBoot-mybatisPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot-ssm/springBoot-ssm.iml" filepath="$PROJECT_DIR$/springBoot-ssm/springBoot-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-maven/springmvc-ssm/springmvc-ssm.iml" filepath="$PROJECT_DIR$/spring-maven/springmvc-ssm/springmvc-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_01_quickstart/springmvc_01_quickstart.iml" filepath="$PROJECT_DIR$/springmvc_01_quickstart/springmvc_01_quickstart.iml" />
+    </modules>
+  </component>
+</project>

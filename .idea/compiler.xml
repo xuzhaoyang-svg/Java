@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TomCat-Demo" />
+        <module name="maven-demo" />
+        <module name="ajax-demo" />
+        <module name="brand-case" />
+        <module name="springmvc-ssm" />
+        <module name="ajax-demo (1)" />
+        <module name="maven_dao" />
+        <module name="springBoot-ssm" />
+        <module name="spring-start" />
+        <module name="maven_pojo" />
+        <module name="springBoot-mybatisPlus" />
+        <module name="springmvc_01_quickstart" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ajax-demo" target="1.7" />
+      <module name="ajax-demo (1)" target="1.7" />
+      <module name="brand-case" target="1.8" />
+      <module name="maven-demo" target="1.5" />
+      <module name="maven_dao" target="1.5" />
+      <module name="maven_parent" target="1.5" />
+      <module name="maven_pojo" target="1.5" />
+      <module name="spring-start" target="1.5" />
+      <module name="springBoot-mybatisPlus" target="1.8" />
+      <module name="springBoot-ssm" target="1.8" />
+      <module name="springmvc-ssm" target="1.5" />
+      <module name="springmvc_01_quickstart" target="1.5" />
+      <module name="TomCat-Demo" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springBoot-mybatisPlus" options="-parameters" />
+      <module name="springBoot-ssm" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaLearning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TomCat-Demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/maven-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-maven/springmvc-ssm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springBoot-mybatisPlus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springBoot-ssm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springmvc_01_quickstart" vcs="Git" />
+  </component>
+</project>
